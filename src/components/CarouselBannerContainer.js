@@ -3,7 +3,8 @@ import image1 from "../assets/image1.jpg";
 import image2 from "../assets/image2.jpg";
 import image3 from "../assets/image3.jpg";
 import image4 from "../assets/image4.jpg";
-const CarouselBanner = () => {
+import CarouselBannerListItem from "./CarouselBannerListItem";
+const CarouselBannerContainer = () => {
     const [list, setList] = useState([image1,image2,image3,image4,image1,image2,image3,image4])
     const [order, setOrder] = useState(false)
     
@@ -40,13 +41,11 @@ const CarouselBanner = () => {
         <>
         <div className="carousel">
             <div className={`carousel-container ${order && `slide`}`}>
-                { list.map((item,index)=>(
-                    <div 
-                        key={index} 
-                        className={`carousel-item ${index === 0 && order && `hidden`}`}>
-                        <img src={item} alt={index}/>
-                    </div>
-                )) }
+                <CarouselBannerListItem 
+                    list={list} 
+                    order={order}
+                    />
+                
 
             </div>
             
@@ -58,4 +57,4 @@ const CarouselBanner = () => {
     )
 }
 
-export default CarouselBanner
+export default CarouselBannerContainer
