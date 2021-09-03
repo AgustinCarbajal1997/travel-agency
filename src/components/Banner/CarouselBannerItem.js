@@ -5,7 +5,7 @@ const CarouselBannerItem = ({ item, index, order }) => {
         key={index}
         className={`carousel-item ${index === 0 && order && `hidden`}`}
       >
-        <img src={item} alt={index} />
+        <img src={item.tinyImage} alt={index} />
       </div>
     </>
   );

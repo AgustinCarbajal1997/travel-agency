@@ -1,11 +1,11 @@
 
-import CarouselBannerContainer from "./components/CarouselBannerContainer";
+import BannerContainer from "./components/Banner/BannerContainer";
 function App() {
   
     
   return (
     <div >
-      <CarouselBannerContainer/>
+      <BannerContainer/>
     </div>
   );
 }
