@@ -1,0 +1,40 @@
+
+@media screen and (min-width: 1050px){
+    .header{
+        display: flex;
+        position: fixed;
+        width: 100%;
+        top: 0;
+        z-index: 999;
+        .logo{
+            width: 30%;
+            h1{
+                font-family: 'Roboto Condensed', sans-serif;
+                font-weight: 700;
+                padding-left: 7%;
+                color: #ffffff;
+                letter-spacing: 2px;
+            }
+        }
+        .nav{
+            width: 70%;
+            height: 100%;
+            margin: auto;
+            ul{
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+                li{
+                    list-style: none;
+                    a{
+                        text-decoration: none;
+                        font-family: 'Roboto Condensed', sans-serif;
+                        font-weight: 400;
+                        letter-spacing: 2px;
+                        color: #ffffff;
+                    }
+                }
+            }
+        }
+    }
+}

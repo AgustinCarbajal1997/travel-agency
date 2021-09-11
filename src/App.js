@@ -1,11 +1,12 @@
 
-import BannerContainer from "./components/Banner/BannerContainer";
+
+import Router from "./navigator/Router";
 function App() {
   
     
   return (
     <div >
-      <BannerContainer/>
+      <Router/>
     </div>
   );
 }

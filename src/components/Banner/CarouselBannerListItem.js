@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom"
 import CarouselBannerItem from "./CarouselBannerItem"
 
 const CarouselBannerListItem = ({ list, order, currentPlace }) => {
@@ -10,7 +11,7 @@ const CarouselBannerListItem = ({ list, order, currentPlace }) => {
               <h3>{currentPlace.country}</h3>
               <h2>{currentPlace.place}</h2>
               <p>{currentPlace.description}</p>
-              <button>SEE MORE</button>
+              <Link to={`/${currentPlace.endPoint}`}><button>SEE MORE</button></Link>
             </div>
         
         
