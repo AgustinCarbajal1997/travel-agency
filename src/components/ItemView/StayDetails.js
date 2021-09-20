@@ -2,6 +2,8 @@ import { useState } from 'react'
 import { HiLocationMarker } from 'react-icons/hi'
 import PopUpGallery from './PopUpGallery';
 import PopUpStays from './PopUpStays';
+import MOST_FACILITIES from '../../constants/MostFacilities';
+
 const StayDetails = ({ stayData }) => {
     const [popUpGallery, setPopUpGallery] = useState({
         switch:false,
@@ -27,16 +29,29 @@ const StayDetails = ({ stayData }) => {
 
                     </div>
                 </div>
-                <div className="stay-detail-introduction-description-container">
+            </div>
+                
+            <div className="stay-detail-introduction-description-container">
+                <h3>HOTEL DESCRIPTION</h3>
                     <div className="stay-detail-introduction-description">
-                        <h3>HOTEL DESCRIPTION</h3>
                         {
                             stayData.hotelDescription.map((item, index)=>(
                                 <p key={index}>{item}</p>
                             ))
                         }
                     </div>
-                </div>
+                    <div className="stay-detail-introduction-facilities">
+                        <ul>
+                            {
+                                stayData.facilities.map((item, index)=> (
+                                    <li key={index}>
+                                        {MOST_FACILITIES[item][0]}
+                                        <p>{MOST_FACILITIES[item][1]}</p>
+                                    </li>
+                                ))
+                            }        
+                        </ul>
+                    </div>
             </div>
 
             <div className="room-type-container">
