@@ -1,4 +1,6 @@
 import { BrowserRouter, Route, Switch, Link } from "react-router-dom"
+import PlaceItemContainer from "../components/ItemView/PlaceItemContainer"
+import StayDetailsContainer from "../components/ItemView/StayDetailsContainer"
 import Home from "../pages/Home"
 const Router = () => {
     return (
@@ -20,6 +22,8 @@ const Router = () => {
                 </header>
                 <Switch>
                     <Route exact path="/" component={Home}/>
+                    <Route exact path="/:place" component={PlaceItemContainer}/>
+                    <Route exact path="/:place/:stay" component={StayDetailsContainer}/>
                 </Switch>
             </BrowserRouter>
         </div>

@@ -17,12 +17,12 @@ const BannerListOptions = [
         description:"Nusa Penida is the largest and most exotic of the 3 Nusa islands, thanks to its collection of unique Hindu temples and picturesque natural features of cliff formations and lagoons."
     },
     {
-        endPoint:"santorini",
-        place:"SANTORINI",
+        endPoint:"mykonos",
+        place:"MYKONOS",
         country:"Greece",
         tinyImage:image2,
         fullImage:image22,
-        description:"Today, Santorini is a unique attraction itself with astonishing rock formations and traditional whitewashed settlements built at the edge of the caldera. It is visited by thousands of tourists and Greeks in the summer."
+        description:"Today, Mykonos is a unique attraction itself with astonishing rock formations and traditional whitewashed settlements built at the edge of the caldera. It is visited by thousands of tourists and Greeks in the summer."
     },
     {
         endPoint:"hallstatt",

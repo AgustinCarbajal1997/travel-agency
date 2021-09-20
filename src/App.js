@@ -1,5 +1,3 @@
-
-
 import Router from "./navigator/Router";
 function App() {
   
