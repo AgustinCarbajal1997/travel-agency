@@ -8,6 +8,7 @@ body {
   margin: 0;
   font-family: Cinzel;
   overflow-x: hidden;
+  background-color: #17232f;
 }
 
 .banner-section {
@@ -511,11 +512,13 @@ body {
     height: 80px;
     margin: auto;
     overflow: hidden;
+    position: relative;
   }
   .popUpStays-section .popUpStays-container .popUpStays-carousel-container .popUpStays-carousel-tinyImgs-container .popUpStays-carousel-tinyImgs {
-    width: 2000px;
+    position: relative;
     height: 100%;
     display: flex;
+    transition: all 0.3s;
   }
   .popUpStays-section .popUpStays-container .popUpStays-carousel-container .popUpStays-carousel-tinyImgs-container .popUpStays-carousel-tinyImgs .popUpStays-carousel-tinyImgs__item {
     width: 120px;
@@ -528,6 +531,32 @@ body {
     object-fit: cover;
     object-position: center;
     cursor: pointer;
+  }
+  .popUpStays-section .popUpStays-container .popUpStays-carousel-container .popUpStays-carousel-tinyImgs-container .arrow-right-small-carousel {
+    position: absolute;
+    top: 50%;
+    right: 0%;
+    transform: translateY(-50%);
+    z-index: 9999;
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.8);
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .popUpStays-section .popUpStays-container .popUpStays-carousel-container .popUpStays-carousel-tinyImgs-container .arrow-left-small-carousel {
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    transform: translateY(-50%);
+    z-index: 9999;
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.8);
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   .popUpStays-section .popUpStays-container .popUpStays-information-container {
     width: 95%;

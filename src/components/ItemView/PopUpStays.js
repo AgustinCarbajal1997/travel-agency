@@ -1,7 +1,11 @@
-import { useState } from 'react';
+import { useState, useRef } from 'react';
 import { IoIosCloseCircleOutline, IoIosArrowForward, IoIosArrowBack } from 'react-icons/io';
 const PopUpStays = ({ data, setPopUpStaysSwitch }) => {
     const [currentImage, setCurrentImage] = useState(0)
+    const [currentPlaceCarousel, setCurrentPlaceCarousel] = useState(0)
+    const carouselTiny = useRef()
+    const carouselTinySlide = useRef()
+
     const closePopUp = (e) => {
         if(e.target.classList.contains("popUpStays-section")){
             setPopUpStaysSwitch({
@@ -27,6 +31,31 @@ const PopUpStays = ({ data, setPopUpStaysSwitch }) => {
         }
     }
     
+    const onNextPlaceTinyCarousel = () => {
+        if(currentPlaceCarousel + carouselTiny.current.clientWidth >= carouselTinySlide.current.clientWidth) return;
+        if(carouselTiny.current.clientWidth*2 < carouselTinySlide.current.clientWidth){
+            setCurrentPlaceCarousel(currentPlaceCarousel+carouselTiny.current.clientWidth)
+        }else{
+            setCurrentPlaceCarousel(currentPlaceCarousel + (carouselTinySlide.current.clientWidth-carouselTiny.current.clientWidth))
+        }
+        console.log(carouselTiny.current.clientWidth)
+        console.log(carouselTinySlide.current.clientWidth)
+        
+
+    }
+    const onBackPlaceTinyCarousel = () => {
+        if(currentPlaceCarousel === 0) return;
+        if(currentPlaceCarousel <= carouselTiny.current.clientWidth){
+            setCurrentPlaceCarousel(0);  
+        }else{
+            setCurrentPlaceCarousel(currentPlaceCarousel - carouselTiny.current.clientWidth);
+        } 
+
+        console.log(carouselTiny.current.clientWidth)
+        console.log(carouselTinySlide.current.clientWidth)
+        
+
+    }
 
 
     return (
@@ -52,8 +81,20 @@ const PopUpStays = ({ data, setPopUpStaysSwitch }) => {
                             <IoIosArrowForward size="3rem" color="#ffffff"/>
                         </div>
                     </div>
-                    <div className="popUpStays-carousel-tinyImgs-container">
-                        <div className="popUpStays-carousel-tinyImgs">
+
+
+                    <div 
+                        className="popUpStays-carousel-tinyImgs-container"
+                        ref={carouselTiny}
+                        >
+                        <div 
+                            ref={carouselTinySlide}
+                            className="popUpStays-carousel-tinyImgs"
+                            style={{ 
+                                width:`${120*data.images.length}px`,
+                                left:`-${currentPlaceCarousel}px`
+                            }}
+                        >
                             { data.images.map((item, index) => (
                                 <div key={index} className="popUpStays-carousel-tinyImgs__item">
                                     <img 
@@ -63,6 +104,12 @@ const PopUpStays = ({ data, setPopUpStaysSwitch }) => {
                                     />
                                 </div>
                             )) }
+                        </div>
+                        <div className="arrow-left-small-carousel" onClick={onBackPlaceTinyCarousel}>
+                            <IoIosArrowBack size="3rem" color="#ffffff"/> 
+                        </div>
+                        <div className="arrow-right-small-carousel" onClick={onNextPlaceTinyCarousel}>
+                            <IoIosArrowForward size="3rem" color="#ffffff"/>
                         </div>
                     </div>
                 </div>

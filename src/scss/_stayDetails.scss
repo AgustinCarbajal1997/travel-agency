@@ -220,10 +220,12 @@
                     height: 80px;
                     margin: auto;
                     overflow: hidden;
+                    position: relative;
                     .popUpStays-carousel-tinyImgs{
-                        width: 2000px;
+                        position: relative;
                         height: 100%;
                         display: flex;
+                        transition: all .3s;
                         .popUpStays-carousel-tinyImgs__item{
                             width: 120px;
                             height: 100%;
@@ -237,6 +239,32 @@
                                 cursor: pointer;
                             }
                         }
+                    }
+                    .arrow-right-small-carousel{
+                        position: absolute;
+                        top: 50%;
+                        right: 0%;
+                        transform: translateY(-50%);
+                        z-index: 9999;
+                        cursor: pointer;
+                        background-color: rgba(0, 0, 0, 0.8);
+                        height: 100%;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                    }
+                    .arrow-left-small-carousel{
+                        position: absolute;
+                        top: 50%;
+                        left: 0%;
+                        transform: translateY(-50%);
+                        z-index: 9999;
+                        cursor: pointer;
+                        background-color: rgba(0, 0, 0, 0.8);
+                        height: 100%;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
                     }
                 }
             }

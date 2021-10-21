@@ -1,0 +1,980 @@
+
+{
+            "backgroundBannerImage":"https://wallpaperaccess.com/full/4375678.jpg",
+            "place":"lake como",
+            "country":"italy",
+            "description":"Lake Como is the perfect destination for active as well as relaxing holidays in Italy. Shores, small towns, peaks, green valley, all to discover!",
+            "category":"highlighted",
+            "stays":[
+                {
+                    "code":"hilton-lake-como",
+                    "name":"Hilton Lake Como",
+                    "images":["https://cf.bstatic.com/xdata/images/hotel/max1024x768/144377832.jpg?k=1eaf43ca915ab63dd10fbd26c32de88dc6f8f5101eff483f850ac44b9d564000&o=&hp=1", "https://cf.bstatic.com/xdata/images/hotel/max1024x768/264471686.jpg?k=8d04ca19fb21edf208a751df8739c82a0b9b82b8885b50dd1e36ac39aa5240e1&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/145502314.jpg?k=7f7d8e0b72da82e57604234c5740a87fd05990227f07404685803251f3192125&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/299017234.jpg?k=4574c5d4910ed0b829f8b8210bbff143ac9d1c2a6740b190c3b47821ad0fa12d&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/202341989.jpg?k=1029f0ce94398836a723b4d52f16b8b9a3a6f39c6b47456ab31c09195d501e2c&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/132325310.jpg?k=003b65432dcaba1cc51a8ff1f3b142a11656a652742333b6a0dd92f8e2bfa55f&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299016061.jpg?k=65c04243b68c13f71cd188549bb31ab8fef0e594c73265719c5036f2da48b80b&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/131131003.jpg?k=3c8595f909d692c76024e3f8f5287028391fec63d64e091aa0a0d646d403b98c&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144380186.jpg?k=3e99a08c1af697a2882ef1f8b1869580f17b117f11df000d448ad99037cc7570&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/132296443.jpg?k=8a21d141d6781f642bbd15801752d248e88d6bc01860cfc4eb406368e08c48ff&o=&hp=1"],
+                    "hotelDescription": ["Featuring a rooftop infinity pool, Hilton Lake Como offers accommodation a 10-minute walk from the shores of Lake Como. Guests can enjoy the Terrazza 241 rooftop restaurant and bar, the Satin restaurant and the Taffeta lobby bar.","Featuring stylish features, rooms have wooden floor and a LCD TV. Some units also feature a lake-view terrace or a spa bath.","The Eforea spa & health club boasts an indoor pool, a Finnish sauna, hot tub and Turkish bath. A fitness centre and a solarium are also available.","Como town centre is a 15-minute walk from Hilton Lake Como. Villa Olmo is 500 m away.", "Couples particularly like the location — they rated it 8.7 for a two-person trip. We speak your language!", "Hilton Lake Como has been welcoming Booking.com guests since 27 Mar 2017."],
+                    "facilities": ["swimmingPool", "parking","spa","family","pets","wifi","coffe","bar"],
+                    "location":"Via Borgo Vico 241 , 22100 Como, Italy – 1.9 km from city centre",
+                    "stars":4,
+                    "reviews":[
+                        {
+                            "name":"Renee",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/us/777787b7ac6548df487f3dc058c8620b6ce1403e.png",
+                            "country":"United States",
+                            "comment":"The staff, like Rami in the restaurant and Francesco the concierge, everything else was exceptional. And the view was amazing."
+                        },
+                        {
+                            "name":"Robbe",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/be/e2e7003280c8772723684ba9bbfe0367ccc56546.png",
+                            "country":"Belgium",
+                            "comment":"The views at the rooftop swimming pool on the Como lake are simply amazing. The staff at the swimming pool are super friendly and helpful." 
+                        },
+                        {
+                            "name":"Patrick",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/ie/2473527640024c7969dc6eaeae2ec8be008d96e7.png",
+                            "country":"Ireland",
+                            "comment":"All the staff were amazing. Thanks so much. The rooftop pool is incredible and the hotel is extremely clean." 
+                        }
+                    ],
+                    "roomTypes":[
+                        {
+                            "name":"King Room",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299014036.jpg?k=5bd4dcd999b5e012c17fe967e1589cf2b8e59ff09e16d2abe30a76c2aade5aa9&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299014558.jpg?k=e37e0c274b93eb42340a1d5aeac7972c6fbb9a4cc20b5b2c62c7cee017319bca&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299014587.jpg?k=597792d22fafcb6c48f0def0ade6d07a7af068ea51997c7d387ad4be2dd6a219&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/315924992.jpg?k=f7b44b16b45156a1a3862ce69756750ae7d359feb10b86ac244b29a44e61a267&o="
+                            ],
+                            "roomDescription":"This air-conditioned room enjoys a french balcony and a flat-screen TV. Other facilities include bath care products, a safety deposit box and a minibar.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Deluxe King Room",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299014158.jpg?k=587d5ad888ecde7585abb573e41b922639fc8e454a70210c5f4ee9160498bba9&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299014558.jpg?k=e37e0c274b93eb42340a1d5aeac7972c6fbb9a4cc20b5b2c62c7cee017319bca&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299014587.jpg?k=597792d22fafcb6c48f0def0ade6d07a7af068ea51997c7d387ad4be2dd6a219&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299014154.jpg?k=deec73ffa0d4c049eb565ce7c37e7e8dbd88bd032acad9f76595e187686f2f7f&o="
+                            ],
+                            "roomDescription":"This spacious room enjoys a french balcony and a flat-screen TV. Other facilities include bath care products, a safety deposit box, air conditioning and a minibar.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Family King Room",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299015486.jpg?k=b2ea04f223e2c40d68e330fdfb20af8c504fc4a9d0b0af5281fa39ad12e1867d&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299015545.jpg?k=2e085bea66ae305c550024f28f84fcd55beef7832b3c9e08c388131b1cef54e8&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299014558.jpg?k=e37e0c274b93eb42340a1d5aeac7972c6fbb9a4cc20b5b2c62c7cee017319bca&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299014587.jpg?k=597792d22fafcb6c48f0def0ade6d07a7af068ea51997c7d387ad4be2dd6a219&o="
+                            ],
+                            "roomDescription":"This air-conditioned room enjoys a window and a flat-screen TV. It features a king bed and a rollaway bed. Other facilities include bath care products, a safety deposit box and a minibar.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Deluxe King Room with Patio",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299013141.jpg?k=eb899dfb4c851e532045cde0b59eef65860a43d170e87e61daa248afbc39ce60&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299013224.jpg?k=6373e28e4cd206c1bf7b06f2faeb8c71f5877a0c74f7638a0147d87ef9b38233&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299013218.jpg?k=a2aec447a5af92874af622e6e40b25949a1d74c6a5e753fbbd60501ad01c4949&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299013233.jpg?k=3ba6f8e6287b6d887a53d3a249147c1d9bea67c9290cec77769ad20947130386&o="
+                            ],
+                            "roomDescription":"This double room has a balcony or patio with a view on the courtyard. Other facilities include bath care products, a safety deposit box and a minibar.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        }
+                    ]
+                },
+                {
+                    "code":"sheraton-lake-como-hotel",
+                    "name":"Sheraton Lake Como Hotel",
+                    "images":["https://cf.bstatic.com/xdata/images/hotel/max1024x768/203531687.jpg?k=a054161da3308b0ee50325dc4ff6f8d0227948aab55c839905167f980c3e7afe&o=&hp=1", "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273912560.jpg?k=31fe759c973fbd877c814a99626b57e81ea1da7d4ad0b169aef8f4bc797a8d61&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/260920315.jpg?k=db2e71ca75334d5d79e56404d9ee4e30d89c6d853894e76deb615e00d5342774&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/260920385.jpg?k=1625d47444dcc3236d03698e2ddb553a79fafe09b260c9dc71e7e3b2f47b826d&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/131455029.jpg?k=872adf6ab12d4c02d6995455797ac61722ec5438d32949c96b0f97740a72ba52&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/234617944.jpg?k=222c8d05fe5456f02548727b625ac7fc50c8bd1be34586703fa98053dc949189&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203531723.jpg?k=0b6be4a6d4fbd606a1d6523df9dd8363a385eedbbca1cf152d0c2aedad721826&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203531652.jpg?k=a570fa1665388516b120c242fc5b37bcb41e211aae0411c77a66ca3a989ea56b&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260920298.jpg?k=0ada5d59df035f553742cdc26c10252b639d0cc385447af998efae9eaa751286&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/49833125.jpg?k=09cacca269857ac06926e060c73d695506d0480c82dc9fdf145f5fd31e25d32f&o=&hp=1"],
+                    "hotelDescription": ["Set in a large park on the shores of Lake Como, Sheraton Lake Como Hotel features an outdoor seasonal heated pool, a free 24-hour gym, and a wellness area with a hot tub. Cernobbio is 1.5 km away.","The elegant air-conditioned rooms are spacious and are decorated with Italian furniture. All feature a minibar and a 48' LED TV with satellite channels. Some rooms have a marble bathroom and parquet floors.","Breakfast at this 4-star hotel is a sweet and savoury buffet that includes freshly baked bread and pastries, and a selection of organic food.","Guests can choose from the property's three dining options: the informal all-day-dining restaurant Kincho, popular for its evening aperitif, Italian cuisine at Gusto, and the refined Michelin-starred experience at Kitchen.", "The hotel is just a 5-minute drive from both the Lago Di Como exit of the A9 Motorway and the Swiss border.", "Sheraton Lake Como Hotel has been welcoming Booking.com guests since 15 Jan 2005."],
+                    "facilities": ["swimmingPool", "parking","spa","family","pets","wifi","coffe","bar"],
+                    "location":"Via per Cernobbio 41/A, 22100 Como, Italy – 3 km from city centre",
+                    "stars":5,
+                    "reviews":[
+                        {
+                            "name":"Julius",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/is/26b75afaf0e5fb3281145092cf041079c267bbc6.png",
+                            "country":"Iceland",
+                            "comment":"Excellent breakfast with an omelette station and good quality coffee. The staff was very helpful and attentive. Nice pool and garden. Good sized rooms and the beds were not too soft."
+                        },
+                        {
+                            "name":"Apolline",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/nl/314ce6500532e846e25d6e3a7c824ef17c968446.png",
+                            "country":"Netherlands",
+                            "comment":"Pool, close to the lake, big rooms and clean. Staff were very friendly. All the staff were amazing. Thanks so much. The rooftop pool is incredible and the hotel is extremely clean." 
+                        },
+                        {
+                            "name":"Edwin",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/nl/314ce6500532e846e25d6e3a7c824ef17c968446.png",
+                            "country":"Netherlands",
+                            "comment":"The location is convenient to get around the city and the about. Staffs were friendly and the pool is nice if there aren’t too many people." 
+                        }
+                    ],
+                    "roomTypes":[
+                        {
+                            "name":"Superior King Room",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/177298284.jpg?k=e6cd5227923bbbbaf34e4f61ff8878d27f15a23bdb6323d9b6e1e59664ef0621&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/177298021.jpg?k=cad9a1162d535fc17768355e7777c7868ae3d18902d9bbff666cdc60dbfbfaf8&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/177297963.jpg?k=2357e8fed31c420bc133b0b662f9150a776a11957f59b189e996ea8fd066fa33&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/179925907.jpg?k=a8421dc339afe1197d31542ff34c8c829116b714d030f235a4b0d800ffd8b513&o="
+                            ],
+                            "roomDescription":"This double room features a seating area, minibar and soundproofing.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Deluxe King Room with Pool View",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/177297947.jpg?k=dd048852de4e59f2f6bd645fa7a35b036b85501b1732c2783171ddb01e9f1173&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/177297956.jpg?k=87b05e61f5e93271cf9a9adf73be17d149221d89721cfca751219f669331880f&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/177297968.jpg?k=91c077a4950094ec0ad2c94400ea652502b92570f75d9a7477cacbedb00efb9b&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/177297963.jpg?k=2357e8fed31c420bc133b0b662f9150a776a11957f59b189e996ea8fd066fa33&o="
+                            ],
+                            "roomDescription":"This double room has a balcony, flat-screen TV and soundproofing.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Deluxe King Room with Terrace",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/177297961.jpg?k=48ff83305cd676ab856aa19fdc4ad3f36ce6194ce211c372cc987ef9b84eb6e5&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/177298363.jpg?k=e50f40f027e5e4c5633fb0849f1cd762a7ac2517fc3d7620f9e5a726a42b94db&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/177297956.jpg?k=87b05e61f5e93271cf9a9adf73be17d149221d89721cfca751219f669331880f&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/177297963.jpg?k=2357e8fed31c420bc133b0b662f9150a776a11957f59b189e996ea8fd066fa33&o="
+                            ],
+                            "roomDescription":"This triple room has a seating area, air conditioning and minibar.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Suite with Pool View",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/177297953.jpg?k=51d0936aaacbd39638f9f663b55c0f31fe4da0feddb98d37e341dade7f328274&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/177298345.jpg?k=1fa0123c4b90539f1b54c5f988e9e8ffdc0847b07a1004cf15d0dc4ecffad4f7&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/177297993.jpg?k=2a321a6a1b8028b7fdc7ef5e8343ffbc06ea39e1cd5cd2102af7b95c8ef2b3be&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/177298336.jpg?k=5262b6137cf3fdcc7b3864f4669451198dd3f25e42c00c4ad7554321da6f3c19&o="
+                            ],
+                            "roomDescription":"This suite has a soundproofing, electric kettle and iPod dock.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        }
+                    ]
+                },
+                {
+                    "code":"grand-hotel-villa-serbelloni",
+                    "name":"Grand Hotel Villa Serbelloni",
+                    "images":["https://cf.bstatic.com/xdata/images/hotel/max1024x768/253656540.jpg?k=f2f7583549687d5a6e140443c00acdbb025684e15cf0411dbd38b839e3f589f1&o=&hp=1", "https://cf.bstatic.com/xdata/images/hotel/max1024x768/253649830.jpg?k=a36e209aa1536db2d4fd995fa5d0766d0781336faef5577d869419115c2d2195&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/253653078.jpg?k=33e2900b20e07e15ffbd8d9d84a99c3b5fa997f27e7a9560c5d07f400b57b691&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/208870417.jpg?k=7ed27a18e823bca203d7bcf5d5be1c1a0559a6ab53a58381acffa570a862fc51&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/253643953.jpg?k=fea6a32c6a4f44027cda9fc7037b737fc3dba63ab7949b850aadda3ef6579ffd&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/253652456.jpg?k=000f12a70ae0560817e43d9a095d44ba6dff4f7771656ff5d63733dbd00050d8&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/253650766.jpg?k=b7612d3c6fe1273ab1fc20dcc05a3d6f38bec5d2eb936af158b408080392e597&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/253637164.jpg?k=f5604da9ed08e585f1cec6b9d3eb7a265d3020bd72f48820895be9823a79e959&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/253637372.jpg?k=ee807d50ec79b56ec2089cecfeda26f0dc8d91c80180a08368df09fa2863c4b0&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/253586669.jpg?k=937586ba61b602c8c0c3f80dbb288a8da6e08cbee3c55bfe2525a34a1da3fd64&o=&hp=1"],
+                    "hotelDescription": ["Owned by the Bucher family for 3 generations, Villa Serbelloni stands at the end of the Bellagio promontory, with views of Lake Como and the Alps. It features 2 gardens, indoor and outdoor swimming pools, and a spa with beauty centre.","Grand Hotel Villa Serbelloni was transformed into a luxury 5-star hotel in 1873. The property boasts impressive staircases and frescoed ceilings. The grand hall, the Salone Reale, features splendid chandeliers in Murano glass.","Rooms are spacious and elegant, and each offers air conditioning, an LCD TV with satellite channels, and a minibar. The décor is classic, with soft carpeted floors, wooden furniture, and unique details. Some rooms offer views of the lake.","The Mistral Restaurant was awarded with a Michelin star in 2005, and offers the chance to eat on a refined terrace with breathtaking views. La Goletta serves regional specialities in an informal setting. A full International breakfast buffet is served daily.", "The spa is available for wellness and beauty treatments. Sports facilities include tennis and squash courts, and a gym with cardio-fitness machineries.", "Couples particularly like the location — they rated it 9.7 for a two-person trip."],
+                    "facilities": ["swimmingPool", "parking","spa","family","pets","wifi","coffe","bar"],
+                    "location":"Via Roma 1, 22021 Bellagio, Italy – 0.1 km from city centre",
+                    "stars":5,
+                    "reviews":[
+                        {
+                            "name":"Stefan",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/de/3960b0022ef5095cf89870f553cb2baf2e98103b.png",
+                            "country":"Germany",
+                            "comment":"The staff is exceptionally friendly and helpful. The hotel's location is a dream, fantastic view, Bellagio literally arounf the corner. Great breakfast that doesn't bore even after 2 weeks."
+                        },
+                        {
+                            "name":"Kirankas",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/nl/314ce6500532e846e25d6e3a7c824ef17c968446.png",
+                            "country":"Netherlands",
+                            "comment":"Villa Serbelloni was an excellent hotel - the best in fact in Bellagio. We arrived by car, driving through the narrow streets in Bellagio was quite the experience. " 
+                        },
+                        {
+                            "name":"Agathe",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/nl/314ce6500532e846e25d6e3a7c824ef17c968446.png",
+                            "country":"Netherlands",
+                            "comment":"The location, the staff, the restaurant, the facilities! I cannot think of a single negative about this place. " 
+                        }
+                    ],
+                    "roomTypes":[
+                        {
+                            "name":"Presidential Suite",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/253557959.jpg?k=aa94580920f7b07335dee7776d586ac199f8cc3785247d1f7dc7f864c4506656&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/253565597.jpg?k=34ef57e090b2e0579ebc39491102eb7cc264afd4d09a53735cdaee1997908f12&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/253564935.jpg?k=7229c5f4b47f2007f2baa40ef7f7280c7bca821f4f7d6f290e3ddd6b9ddadc6b&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/253558208.jpg?k=10e395c07473ded9c2cc2ee4a974e0aa67ffeec11ec0cadfd7f2aeef39df4ef7&o="
+                            ],
+                            "roomDescription":"This suite has a sofa, seating area and bathrobe.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Deluxe Room with Lake View",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/253553185.jpg?k=67ce567817d0dcf05ede1d8f6bf82ce9134384544a6fc4c11c63629cffd79f0a&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/253557273.jpg?k=f0fc15c9713078b02b61308e01e1bc1fef2a6f47fb64b543bd8b35e8a1b9d79a&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/253555057.jpg?k=fce2122cd3dd021fe4f47dea2ff524ebec950a8ab2f188b43c9c7da0a8b1d6af&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/284545955.jpg?k=cdd86d5715f59f1beff44552192cf9ac7b4ad7b4a6c0a4d688b1e289f58ea50a&o="
+                            ],
+                            "roomDescription":"This triple room has air conditioning, flat-screen TV and minibar.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Deluxe King Room with Terrace",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208868846.jpg?k=ccd868b59b9428fbc2e5d4cb87409ba2ea076e6812ee55df994f32f09a5ac72e&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/284545286.jpg?k=46d7ff2e1a67b267b2fa4c2cd0dbe17e7f29880161e0c95227713f2831cbd23a&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/284545283.jpg?k=c052e6c8e8f793f7947be0645d3928634ba97ae2e6d1525ba3629a973603ecef&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/284545282.jpg?k=fa3353ddb8af8608777f419ea1aa12fbda6a3a2b3da3ab6dfee3b080b39f67e2&o="
+                            ],
+                            "roomDescription":"This triple room has a seating area, air conditioning and minibar.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Junior Suite",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/177297953.jpg?k=51d0936aaacbd39638f9f663b55c0f31fe4da0feddb98d37e341dade7f328274&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/177298345.jpg?k=1fa0123c4b90539f1b54c5f988e9e8ffdc0847b07a1004cf15d0dc4ecffad4f7&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/177297993.jpg?k=2a321a6a1b8028b7fdc7ef5e8343ffbc06ea39e1cd5cd2102af7b95c8ef2b3be&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/177298336.jpg?k=5262b6137cf3fdcc7b3864f4669451198dd3f25e42c00c4ad7554321da6f3c19&o="
+                            ],
+                            "roomDescription":"This suite has a soundproofing, electric kettle and iPod dock.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        }
+                    ]
+                }
+
+            ]
+        },
+        {
+            "backgroundBannerImage":"https://wallpaperaccess.com/full/2109525.jpg",
+            "place":"hallstatt",
+            "country":"austria",
+            "description":"Hallstatt is a fairy-tale-like town sprinkled with pastel-colored houses and winding cobblestone streets and surrounded by the striking Northern Limestone Alps. The natural beauty and picturesque and enchanting views attract visitors to the tiny town year after year.",
+            "category":"highlighted",
+            "stays":[
+                {
+                    "code":"historic-lakeview-apartments-hallstatt",
+                    "name":"Historic Lakeview Apartments Hallstatt",
+                    "images":["https://cf.bstatic.com/xdata/images/hotel/max1024x768/273174151.jpg?k=d824e871aecca5fab3b3540ad87df427f6928a5b8637080ceb0142b436fc062d&o=&hp=1", "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273174244.jpg?k=7c8cdd546338376efd193b69a3fe77acb321954b4ebbea44545d218c6c3db94c&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/269703668.jpg?k=3b9d4aad521cb338c15b76cbd2f73b1ea3c04c005cdce35d5230ff6b4ed6d0fb&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/269703664.jpg?k=612ec14da899615d854a8852544118a48a947650f268ed10bd3633e487d2e8bf&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/273174672.jpg?k=19cdfbece310c64b74e198bf48b1c4cfef74f6c671a6ed57f6f1d4fb50db9db7&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/273174347.jpg?k=952e3a6657443f48d766cffbaaadab6e0877facad79debecd3f304dd5b989937&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273174523.jpg?k=6ec0bfbb37a6b6e87f084a05fb6306839bf1c668387f05953c824eef2e435df0&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301112193.jpg?k=8ee5580dec0aed893cacff876eabe562d3fad568f7f3a5af8e282f08dea22079&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301112433.jpg?k=8e581eef83d9666b4e8d282924e8ad5584301aa61e1330692e1c0f885b227db4&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/269162707.jpg?k=2ff6b878bae57dced5db17a4ec022aa8bb5516d32742c0a1fc75779001562972&o=&hp=1"],
+                    "hotelDescription": ["Located 100 m from Museum Hallstatt, Historic Lakeview Apartments Hallstatt offers a terrace, and accommodation with a balcony and free WiFi.","The apartment provides guests with a patio, lake views, a seating area, a flat-screen TV, a fully equipped kitchen with a dishwasher and a fridge, and a private bathroom with shower and slippers. An oven, a stovetop and toaster are also provided, as well as a kettle and a coffee machine.","Skiing and cycling are possible within the area, and Historic Lakeview Apartments offers water sports facilities.","Salzwelten Hallstatt is 700 m from the accommodation. The nearest airport is Salzburg Airport W. A. Mozart, 55 km from Historic Lakeview Apartments Hallstatt, and the property offers a paid airport shuttle service.", "This is our guests' favourite part of Hallstatt, according to independent reviews.", "Couples particularly like the location — they rated it 9.2 for a two-person trip."],
+                    "facilities": ["swimmingPool", "parking","spa","family","pets","wifi","coffe","bar"],
+                    "location":"Dr.-Friedrich-Morton-Weg 26, 4830 Hallstatt, Austria – 0.2 km from city centre",
+                    "stars":4,
+                    "reviews":[
+                        {
+                            "name":"Qing",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/at/add9b5fd810bf7552bd0d7dc984fb69607db7629.png",
+                            "country":"Austria",
+                            "comment":"Wonderful stay in this apartment and Hallstatt! Perfect host, perfect location, perfect time! Thanks!"
+                        },
+                        {
+                            "name":"Anita",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/at/add9b5fd810bf7552bd0d7dc984fb69607db7629.png",
+                            "country":"Austria",
+                            "comment":"Martina - the contact person incredibly hard-working. . everything worked out to the finest!!!!! Thank you so much!!! I would always gladly recommend it!" 
+                        },
+                        {
+                            "name":"Judith",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/ie/2473527640024c7969dc6eaeae2ec8be008d96e7.png",
+                            "country":"Ireland",
+                            "comment":"The location is very central and the view from the terraced garden beautiful. Inside the house could not be more cozy. We found it very difficult to leave again :)" 
+                        }
+                    ],
+                    "roomTypes":[
+                        {
+                            "name":"Apartment with Terrace",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269162638.jpg?k=8a752525c20acf64f6618d889cc35c39ff8fcbe6e427099ec5df3d6c2e674a04&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269703668.jpg?k=9f90167a99a86a16a11cf3c622e41b1f95ab198e8b71aaba4c1b6ea4c2b67de8&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269162714.jpg?k=cc596b2a2df252f8af16a2cca2a962e752ba78630fd87664c35ad6f5a8dde344&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269703664.jpg?k=95ae68ab7a61314c6efa14f718b35501e0283ab4af6e118342be6d26352a4e71&o="
+                            ],
+                            "roomDescription":"This apartment has a kitchen.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Apartment with Balcony and Terrace",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273174151.jpg?k=059bac81cc94cc330ba46b71d4236140916bc3e1bb43764425b7856c91f6a4b4&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301111750.jpg?k=dcd86bb593cc8bb6a554d58a7e82f39516a83ad5d56d79e31785abd021582225&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269795597.jpg?k=b7cce301335bd959156bec8e014c054fadfa2ba9622d4a8e3e98c58b47382814&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273174244.jpg?k=888fc7618ef4414d171123d9c44a455c93387472c11516e83f90739ca5ec8bd0&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273174523.jpg?k=e1b31bb6aecce4d61b5d5438adafb367ccee861b0f34a9f12f36619a42beb698&o="
+                            ],
+                            "roomDescription":"This apartment features a oven, tile/marble floor and toaster.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Family King Room",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299015486.jpg?k=b2ea04f223e2c40d68e330fdfb20af8c504fc4a9d0b0af5281fa39ad12e1867d&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299015545.jpg?k=2e085bea66ae305c550024f28f84fcd55beef7832b3c9e08c388131b1cef54e8&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299014558.jpg?k=e37e0c274b93eb42340a1d5aeac7972c6fbb9a4cc20b5b2c62c7cee017319bca&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299014587.jpg?k=597792d22fafcb6c48f0def0ade6d07a7af068ea51997c7d387ad4be2dd6a219&o="
+                            ],
+                            "roomDescription":"This air-conditioned room enjoys a window and a flat-screen TV. It features a king bed and a rollaway bed. Other facilities include bath care products, a safety deposit box and a minibar.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Deluxe King Room with Patio",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299013141.jpg?k=eb899dfb4c851e532045cde0b59eef65860a43d170e87e61daa248afbc39ce60&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299013224.jpg?k=6373e28e4cd206c1bf7b06f2faeb8c71f5877a0c74f7638a0147d87ef9b38233&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299013218.jpg?k=a2aec447a5af92874af622e6e40b25949a1d74c6a5e753fbbd60501ad01c4949&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299013233.jpg?k=3ba6f8e6287b6d887a53d3a249147c1d9bea67c9290cec77769ad20947130386&o="
+                            ],
+                            "roomDescription":"This double room has a balcony or patio with a view on the courtyard. Other facilities include bath care products, a safety deposit box and a minibar.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        }
+                    ]
+                },
+                {
+                    "code":"boutiquehotel-strand-hallstatt",
+                    "name":"Boutiquehotel Strand Hallstatt - Adults only",
+                    "images":["https://cf.bstatic.com/xdata/images/hotel/max1024x768/312587057.jpg?k=eb1a22b4fbafb7d4e87d77cf4a950e3e5095516b73a0dacb448b30aa613e68e0&o=&hp=1", "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312579758.jpg?k=97a73ded0a32249c17e85619cfeeb8fd5d2cb8a5dc8e95f6fe1481abf3ec2bba&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/312580068.jpg?k=e40bf87199944543a42eeb988d87b4d4fb25cfa4d83f11ff4357489bb04eacf7&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/312573260.jpg?k=6d74d1e3fd72fabb5bf88b735937881d1cd7d044cc2ab45b677ba9ddce16c535&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/312586286.jpg?k=c104596424da8290cd3aa705efca40c5613bcce9740ffa79ade3681d2bb6a39e&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/312579424.jpg?k=e17263899e2888f1f98b5a980668f8235a3cfbc28d7aded60f9f20371aa8bf2c&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312579481.jpg?k=6e04cb0c4ae21534e95ea50864ecb14bebbb6e9a77b04eead2a950c6ad7569d9&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312573235.jpg?k=a9789db35f2f2edec1135193e9fecae04034fd390f110b7fb14a3168fea2356d&o=&hp=1"],
+                    "hotelDescription": ["Situated in Hallstatt, less than 1 km from Museum Hallstatt, Boutiquehotel Strand Hallstatt - Adults only features accommodation with a garden, free private parking, a private beach area and a terrace. The accommodation offers room service and free WiFi throughout the property.","At the hotel, the rooms have a balcony with a mountain view. With a private bathroom fitted with a shower and a hairdryer, rooms at Boutiquehotel Strand Hallstatt - also feature a lake view. All rooms will provide guests with air conditioning, a safety deposit box and a flat-screen TV.","A continental breakfast is available each morning at the accommodation.","Salzwelten Hallstatt is 300 m from Boutiquehotel Strand Hallstatt - Adults only. The nearest airport is Salzburg Airport W. A. Mozart Airport, 56 km from the hotel.", "This is our guests' favourite part of Hallstatt, according to independent reviews.", "Couples particularly like the location — they rated it 10 for a two-person trip."],
+                    "facilities": ["swimmingPool", "parking","spa","family","pets","wifi","coffe","bar"],
+                    "location":"102 Seelände, 4830 Hallstatt, Austria – 0.9 km from city centre",
+                    "stars":4,
+                    "reviews":[
+                        {
+                            "name":"Julius",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/is/26b75afaf0e5fb3281145092cf041079c267bbc6.png",
+                            "country":"Iceland",
+                            "comment":"Excellent breakfast with an omelette station and good quality coffee. The staff was very helpful and attentive. Nice pool and garden. Good sized rooms and the beds were not too soft."
+                        },
+                        {
+                            "name":"Apolline",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/nl/314ce6500532e846e25d6e3a7c824ef17c968446.png",
+                            "country":"Netherlands",
+                            "comment":"Pool, close to the lake, big rooms and clean. Staff were very friendly. All the staff were amazing. Thanks so much. The rooftop pool is incredible and the hotel is extremely clean." 
+                        },
+                        {
+                            "name":"Edwin",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/nl/314ce6500532e846e25d6e3a7c824ef17c968446.png",
+                            "country":"Netherlands",
+                            "comment":"The location is convenient to get around the city and the about. Staffs were friendly and the pool is nice if there aren’t too many people." 
+                        }
+                    ],
+                    "roomTypes":[
+                        {
+                            "name":"Superior King Room",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312579758.jpg?k=74e74731d8922a18d761837a5fae3b189d636892ec90243381d17aa64c540705&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312579424.jpg?k=021891b8c72cc7ce92896d3cdfd773f6a4a5d9fe693124422208c14b122da1f9&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312586286.jpg?k=c557e6a293cc8b474a673beecb1eeb9cf1a3e07213388bdc9bd8c9b8f92ecfac&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312580068.jpg?k=ce144fc48dcac93d5b0d2f78f9ad4e07c6de825834d27950997b9fd4362261ea&o="
+                            ],
+                            "roomDescription":"This suite has a balcony and air conditioning.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Double Room",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204647037.jpg?k=6aaee664cff7b37297b5c484289ad56b2c24ad2ba30540757e318cd3f77a9329&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/85354088.jpg?k=cf42f4743274757c1460345ab58467f002bfdf6c6beb2c8db7096345e428cdaa&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204653539.jpg?k=91d7f70a274b3cb43bc974f322f0239feea5592d724d9b8cb02bc40fc481e762&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204653872.jpg?k=0453bbbd305f219ee8aa5cd68e14419ea94620219cf17624749585f19e1e84f2&o="
+                            ],
+                            "roomDescription":"Room with mountain views, a flat-screen satellite TV, a tea/coffee maker, and a bathroom with a shower or bathtub.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Superior Double Room",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204652180.jpg?k=3674d722bfea0ef847d6b64b2666958c24f3397e6bdbee60f4413e6a2aee8bf7&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204651989.jpg?k=c0a25878828bee72d08d963acb00c0dd44f100b1dafb94ba44905f8cae3592e3&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205376278.jpg?k=5c05964a276528e8577727dd8466398dde784a1a914dbea1e44db933e6cef3b6&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/177297963.jpg?k=2357e8fed31c420bc133b0b662f9150a776a11957f59b189e996ea8fd066fa33&o="
+                            ],
+                            "roomDescription":"Room with mountain views, a flat-screen satellite TV, a tea/coffee maker, and a bathroom with a shower or bathtub.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        }    
+                    ]
+                },
+                {
+                    "code":"heritage-hotel-hallstatt",
+                    "name":"Heritage Hotel Hallstatt",
+                    "images":["https://cf.bstatic.com/xdata/images/hotel/max1024x768/302275626.jpg?k=b0fbca5d284ac590384b026c7dfc7b67975354dfd598d9e6fac297bb8480cc47&o=&hp=1", "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302275079.jpg?k=8e26c9fcc883df9e703bf6ea46af355d0c97207f45089d1ac42d24d9f8883baa&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/235084254.jpg?k=09dbbc0f8e29e2e025b6cc9f5fe5a8c29be1163748e03f5cd8622e38a3c1fafb&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/59436966.jpg?k=1c346c2e735f2ddad7a5cd55391afcf63c8452439e8ea944d35792b1e7e7c36f&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/302274979.jpg?k=0585c7473a151ceba31b31518c5144ef14e88a30e720d30b46739fdfd180a23d&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/302276342.jpg?k=3cda4e8de5a327c93bc412f260d0648a568e97dc244de5be01b746516c4ac256&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302276338.jpg?k=8409ff3e77e6dcd25e152c188375e11a20a6dc32f8d4ebccd9a9f9ce9d8e968d&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256695342.jpg?k=ac7a1d0c73ad1ea6d03c9a4e0ad14ac9a4e09f43d61910ffe64e79add92f4f34&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302276799.jpg?k=ea9b43f38b80b6a28aa4a5f6a0fcd514dc6b81cfb7f7f08d9f249b4d73966b1a&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/302276339.jpg?k=6f6e94970fc09dbc62591526a2e85d434ad31142918c7d4dff74790bdb84fe1e&o=&hp=1"],
+                    "hotelDescription": ["Heritage Hotel is located in the car-free historic centre of the UNESCO World Heritage town of Hallstatt in Upper Austria's Salzkammergut region. It offers free wired internet access in the rooms and free WiFi in all areas.","Consisting of 3 carefully renovated, historic buildings, Heritage Hotel Hallstatt features a bar and a sunny lakeside terrace. There is also a café with a winter garden right next to Hallstatt's boat landing. The hotel’s restaurant Im Kainz offers traditional Austrian dishes and fine wines.","All rooms and suites at Heritage Hotel offer views of the town and Lake Hallstatt. The rooms are all individually furnished and feature cable TV, a minibar, and tea and coffee-making facilities.","Haus Kainz is the main building, with the breakfast room, the café and the bar, as well as a sauna, an infrared cabin and a lift. Haus Stocker is Hallstatt's oldest (more than 400 years) building and truly unique. Haus Stocker is a 3-minute walk away from the main building. Haus Seethaler enjoys a hillside location and offers panoramic lake views. It is a 5-minute walk away from the main building. Haus Stocker and Haus Seethaler have no lift.", "All guests of the Heritage Hotel get bathrobes, slippers and toiletries free of charge.", "Parking is possible for a charge in the P1 parking area outside the town. From there, free shuttle bus to the hotel is available."],
+                    "facilities": ["swimmingPool", "parking","spa","family","pets","wifi","coffe","bar"],
+                    "location":"Via Roma 1, 22021 Bellagio, Italy – 0.1 km from city centre",
+                    "stars":5,
+                    "reviews":[
+                        {
+                            "name":"Stefan",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/de/3960b0022ef5095cf89870f553cb2baf2e98103b.png",
+                            "country":"Germany",
+                            "comment":"The staff is exceptionally friendly and helpful. The hotel's location is a dream, fantastic view, Bellagio literally arounf the corner. Great breakfast that doesn't bore even after 2 weeks."
+                        },
+                        {
+                            "name":"Kirankas",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/nl/314ce6500532e846e25d6e3a7c824ef17c968446.png",
+                            "country":"Netherlands",
+                            "comment":"Villa Serbelloni was an excellent hotel - the best in fact in Bellagio. We arrived by car, driving through the narrow streets in Bellagio was quite the experience. " 
+                        },
+                        {
+                            "name":"Agathe",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/nl/314ce6500532e846e25d6e3a7c824ef17c968446.png",
+                            "country":"Netherlands",
+                            "comment":"The location, the staff, the restaurant, the facilities! I cannot think of a single negative about this place. " 
+                        }
+                    ],
+                    "roomTypes":[
+                        {
+                            "name":"Deluxe Double Room",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235090272.jpg?k=6879556eb393efa81c8c0257c1a1f9185994388efffced0b51a0f51aef677fe1&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235090391.jpg?k=60f148aa1ead19f3fc7b2506c418e006f22009ee139f8332e174a6c8ded0cb3f&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302283471.jpg?k=d917739d27933785b0bf4aac706aea1d9b2588926b8259c444bd51083640b38f&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235082785.jpg?k=bea86c86fdc2680de66804e0b90eebfd3ac43c219c5f4c0c7de7cb4868a728b7&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235083330.jpg?k=dff936481e8b3063f65a79c30819967b87d7942dd7e2251d4ae43ab1b1e783fc&o=https://cf.bstatic.com/xdata/images/hotel/max1024x768/235083330.jpg?k=dff936481e8b3063f65a79c30819967b87d7942dd7e2251d4ae43ab1b1e783fc&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256695196.jpg?k=a1965687534a4d5f16197a3f214740b5768b173d766ab922534bbe1be5989f89&o="
+                            ],
+                            "roomDescription":"These spacious rooms are located in either of the 3 hotel buildings. Rooms at Haus Kainz are facing Hallstatt and overlook the lake and shipping pier and feature wooden floors. Haus Stocker's rooms offer a French balcony and lake views and are suitable for up to 3 persons, and rooms at Haus Seethaler feature a balcony, lake views, and carpeted floors.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Suite",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302276338.jpg?k=25340603906dc0e6c5d062d504f78d6deab0a5cd48a45bc2c33d4ddb8168d4f6&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302276342.jpg?k=011e9b946f5e4da17eeac0a3c52d0844b1dc634a7dc313d32b94274b324197cb&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302276352.jpg?k=eae1d6a93363880e6b464b0fd541cb97b891789d967e212974ca049cd09cf883&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302276343.jpg?k=28b08ad519bee9d4240d860ad75f564c249d0088c2a0418e3f386fefeeea9a67&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302276348.jpg?k=6c490b20ca62d7b8583ca71ec5c5a6ce6d55a4a1e38f2ebe032ffe687ca669dd&o="
+                            ],
+                            "roomDescription":"Fitted with wooden floors and elegant décor and located in the Haus Kainz, the main building, this spacious suite with views of the market features 2 bedrooms, 2 bathrooms, a flat-screen TV with cable channels, and a seating area.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Junior Suite",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302277447.jpg?k=fabb9ea08d804d46ff8d5dcc40a0f4846a599f878f07a6d84e303cae2f0daf8b&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302277446.jpg?k=b7ba7e2199a9a939ad868c94d2464af535d16745f5da40249e7e809d1b96d573&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302277729.jpg?k=b3935d941c5dbc9fcad3d7e7ee85a6a03c0de3ab37299b6b9fe5b70d9235349c&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302277541.jpg?k=7872a69870cb88729051c50ec1dcf711beecc2897210b251250745f904c67e0c&o="
+                            ],
+                            "roomDescription":"These junior suites are located in either of the 3 hotel buildings. Junior suites in Haus Kainz, the main building, offer either a balcony and lake views, or lake views only, or a separate living room and views of the protestant church.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Family Suite",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235084254.jpg?k=27056f1de461b313bfc2601b0e632bb2b9475afbc0a653b62de7e0a54f60258b&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235084189.jpg?k=fb778d3965f62bf96a36d13caf0cbad0d8e0670dbd2974e22cc59e2879d6adab&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256695294.jpg?k=ac47e8ca0890e66e1040579e13d4ed6505ad199b505709926b8d0fcd1dbb30c3&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304763349.jpg?k=3acf930f89e33e6d5f06796387f75f989474e6468bf0bf184942512ca60e2172&o="
+                            ],
+                            "roomDescription":"This suite has a soundproofing, electric kettle and iPod dock.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        }
+                    ]
+                }
+
+            ]
+        },
+        {
+            "backgroundBannerImage":"https://funart.pro/uploads/posts/2021-03/1617197625_14-p-oboi-bali-ostrov-16.jpg",
+            "place":"nusa penida bali",
+            "country":"indonesia",
+            "description":"Nusa Penida is the little gem of Bali. Penida island is part of the Nusa Islands, is the biggest of the 3 but until now the least developed. By visiting Nusa Penida expect white-sand beaches with silky blue water, 200-meter high coastal cliffs drop, and yet untouched nature. It is recommended to either visit the island by a one-day Nusa Penida Tour or a 3-day Nusa Penida trip.",
+            "category":"highlighted",
+            "stays":[
+                {
+                    "code":"adiwana-warnakali-resort",
+                    "name":"Adiwana Warnakali Resort",
+                    "images":["https://cf.bstatic.com/xdata/images/hotel/max1024x768/268504069.jpg?k=ff777229dc6602f2fcf3e778acd7286b00a4da1aeb513010a513e657a64dc9b4&o=&hp=1", "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268508504.jpg?k=b79643ccc00a90a4bf84648abddf386f4e7405c7993f50541963b8238f2effe1&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/268504067.jpg?k=d886cd3f3a3b588c039792908d6438a849ea58e0b548b3491f88b6ab66172604&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/268506183.jpg?k=c3f5551248599c497de1cf6e6b73f58bb861df639ded97b441541d2a9d7c0f43&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/268507395.jpg?k=f3b42acd754da2b8ee430278fe878c01c0ae2c6800f85e39953e53c2a5e45017&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/268505829.jpg?k=fab4835c48b8d2f08b3b8d60e688fec453cb0c1f139dfd5e6e3b1ab2a73994ca&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268505827.jpg?k=e7ed63c1d5a057b57fc9a037b6ffe854b72262d9906e107d07c2ea59ee726f09&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268504072.jpg?k=52487a58c693422c8e318bc5363301b09f4567df7df6e2defeeda348d30b25bc&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/243050431.jpg?k=f566261a86961c94dc9ba3549343c261ede6c0d8629ff9dcf6f8f6df2294b33b&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/245459083.jpg?k=f6593e83c481ff5c14a7097ce2c1582e6c5af16c517dc6b0ed28003c5145c9e1&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268504103.jpg?k=494b0599cf97f26231d5e81c02161b2b7056d28b8cf56e0ef1bbf7ae042f3a36&o=&hp=1"],
+                    "hotelDescription": ["Adiwana Warnakali Resort in Nusa Penida provides adults-only accommodation with a restaurant, an outdoor swimming pool and a bar. Each accommodation at the 4-star resort has sea views, and guests can enjoy access to a terrace. The accommodation offers a 24-hour front desk, airport transfers, room service and free WiFi.","At the resort, each room includes a desk. At Adiwana Warnakali Resort, all rooms are equipped with air conditioning and a private bathroom.","The accommodation offers a continental or à la carte breakfast.","Mangrove Beach is 2.6 km from Adiwana Warnakali Resort, while Broken Beach is 13 km away. The nearest airport is Ngurah Rai International Airport, 35 km from the resort.", "Couples particularly like the location — they rated it 8.5 for a two-person trip.", "Couples particularly like the location — they rated it 9.2 for a two-person trip."],
+                    "facilities": ["swimmingPool", "parking","spa","family","pets","wifi","coffe","bar"],
+                    "location":"Sakti - Nusa Penida, 80771 Nusa Penida, Indonesia – 7.8 km from city centre –",
+                    "stars":4,
+                    "reviews":[
+                        {
+                            "name":"Qing",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/at/add9b5fd810bf7552bd0d7dc984fb69607db7629.png",
+                            "country":"Austria",
+                            "comment":"Wonderful stay in this apartment and Hallstatt! Perfect host, perfect location, perfect time! Thanks!"
+                        },
+                        {
+                            "name":"Anita",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/at/add9b5fd810bf7552bd0d7dc984fb69607db7629.png",
+                            "country":"Austria",
+                            "comment":"Martina - the contact person incredibly hard-working. . everything worked out to the finest!!!!! Thank you so much!!! I would always gladly recommend it!" 
+                        },
+                        {
+                            "name":"Judith",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/ie/2473527640024c7969dc6eaeae2ec8be008d96e7.png",
+                            "country":"Ireland",
+                            "comment":"The location is very central and the view from the terraced garden beautiful. Inside the house could not be more cozy. We found it very difficult to leave again :)" 
+                        }
+                    ],
+                    "roomTypes":[
+                        {
+                            "name":"Grand Deluxe Ocean View With Free Floating Breakfast",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268504075.jpg?k=c5620c05251e8bbc376b82787384c3123e7cfd333ac5681a9dbdbceb9ebe143a&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268504077.jpg?k=91dd5714823d037b4b4015c19f7301920e9b4387202ce6a13f0a88b44ef5cf26&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268504082.jpg?k=d708cb8c0509c29bc8c1d995095f7b0b57f0fb5453225b71deff7e0487eada22&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268505829.jpg?k=4cfb0c2c947630e16f0a35a0a18112539d1be758b8e469fe31e26211d5653e7a&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268507889.jpg?k=40e342cd762e54a57234b2ff644e8f379239494b8ecb2f53fc4cf91daca04e39&o=",
+                                ""
+                            ],
+                            "roomDescription":"This suite has a balcony, sea view and sofa.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Ocean View Suite with Free Floating Breakfast",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268507395.jpg?k=a51a7e53adf890551fbd7daee007520f098db6d45cf0da1acec8d2832e0792ed&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268504129.jpg?k=acd29a805517fd9f50dca64366fd96d6baa9fcd4d638bf4ff1a5684e9d72aa02&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268504130.jpg?k=0d114382839b5ec3ecbc8d69672f9329cf20ae345d30f585dc2d2b29851e840d&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268506639.jpg?k=eb915e7bbac111bd650c7daeaa4da4c9a3b49a95bec57926d7fbe70f0077fadf&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268504103.jpg?k=afd4b300b9b4df5215a4d9c6023a9a4fa1d94eaef2c4fd8d64f7a0a0a99676f0&o="
+                            ],
+                            "roomDescription":"This suite features a balcony, air conditioning and minibar.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Villa with Sea View",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/228350063.jpg?k=5faf921b2057ffceede615651005c0ec6bd6a4667acf6f371efa8a38865a8f9a&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296695369.jpg?k=922db88638737cf9045ba848fa357a0aaf8acd04b0352b31816af5ec507a0e40&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/228350031.jpg?k=be630cf287b6d87879957e18f430e1b6fc4df79aa26e657059c440fd35cfab5d&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/228352044.jpg?k=06e217f0bfaffd25b7152bd74711490c77a3cfa55bae222c3d8d6e1624084c52&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/228356288.jpg?k=15a669c72ebc79d23919c5dac11c2f1da850ccb3bb1604b37bf3064b7cef239f&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/228356247.jpg?k=c8a01b33b2179c35b839e619fa8efcab6142ac813275c7e7200e9a0c6fb7c3cc&o="
+                            ],
+                            "roomDescription":"This double room has a balcony, dining area and private entrance.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        }
+                        
+                    ]
+                },
+                {
+                    "code":"penida-bambu-green",
+                    "name":"Penida Bambu Green",
+                    "images":["https://cf.bstatic.com/xdata/images/hotel/max1024x768/156668620.jpg?k=b3c452a573c327f862f8ffaf13650f3c1e958bf460c3ef58da6cb6cce169ef92&o=&hp=1", "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156658554.jpg?k=06f23421fcfac0c52772a6c75886ff8f318ae4932bbb6142c9f7c507acc7487b&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/263549513.jpg?k=20243e9f36e947082efa08cd9ba9955a364c1ebbfe82a151cd714ed2549dc76c&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/156668645.jpg?k=98c643073cd14923cbfce55c003781ff1fcb6849a238ee6593f2309e141b731e&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/177364313.jpg?k=94e5a9e44ce303e85c3d7dbfa98ab7c80d89756aa4060a1f5c8c4edf3c5fc24f&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/156658507.jpg?k=822781bfe754c533ba18e18c3a74f8e11048bf0d3e34d076cd0bde528bdf2703&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156660568.jpg?k=a8e2380634f9e7bce882cd0b099945ed97887ad7e539bb730d24d0aede97645d&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156658244.jpg?k=430b71868465f96de8c6f569fe58522fdb946ac1d02b8d042fa3ddec1d5df2ef&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/180813812.jpg?k=4fc68d0790fbfd04a023a65056398d7851dd9a824209c39be42c21dde492a38b&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156660581.jpg?k=f74a2e49183c7893d930c8ab143c334542d2323ff94cd6e0a82d68a510a0dd3c&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156658425.jpg?k=c27357a16d575db7687680ffff67e446bf386db7a361b8544a2563d3d72d9814&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156660548.jpg?k=c4a3bbad03e7dbfec4dc9b672701755c8f6331ddcefbbfc91dd5ee6a7e350db0&o=&hp=1",
+                    ""],
+                    "hotelDescription": ["Boasting a swimming pool, a restaurant, a garden and views of the pool, Penida Bambu Green is situated in Nusa Penida and features accommodation with free WiFi.","All units are air conditioned and include a seating and/or dining area.","A continental breakfast is available each morning at the accommodation.","The holiday park offers a terrace.", "Sun Sun Beach is 2.7 km from the accommodation, while Broken Beach is 15 km from the property. The nearest airport is Ngurah Rai International, 37 km from Penida Bambu Green, and the property offers a paid airport shuttle service.", "A car rental service is available at Penida Bambu Green."],
+                    "facilities": ["swimmingPool", "parking","spa","family","pets","wifi","coffe","bar"],
+                    "location":"Jalan Raya Adegan,Banjar Biaung Desa,Desa Ped, 80771 Nusa Penida, Indonesia – 5.5 km from city",
+                    "stars":3,
+                    "reviews":[
+                        {
+                            "name":"Julius",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/is/26b75afaf0e5fb3281145092cf041079c267bbc6.png",
+                            "country":"Iceland",
+                            "comment":"Excellent breakfast with an omelette station and good quality coffee. The staff was very helpful and attentive. Nice pool and garden. Good sized rooms and the beds were not too soft."
+                        },
+                        {
+                            "name":"Apolline",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/nl/314ce6500532e846e25d6e3a7c824ef17c968446.png",
+                            "country":"Netherlands",
+                            "comment":"Pool, close to the lake, big rooms and clean. Staff were very friendly. All the staff were amazing. Thanks so much. The rooftop pool is incredible and the hotel is extremely clean." 
+                        },
+                        {
+                            "name":"Edwin",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/nl/314ce6500532e846e25d6e3a7c824ef17c968446.png",
+                            "country":"Netherlands",
+                            "comment":"The location is convenient to get around the city and the about. Staffs were friendly and the pool is nice if there aren’t too many people." 
+                        }
+                    ],
+                    "roomTypes":[
+                        {
+                            "name":"Villa",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263549513.jpg?k=047169e7116a7ecb3036169207739d56cb52c422360e7a01a60e08ef3fd47703&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/196348911.jpg?k=d5d178d580750f8445f34762cf31be7a31562d777aef504f81e7d4d85f957eb9&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/196348937.jpg?k=41343373bd399d841c8469621268530fc3505193969fc40f6febbb3625bb01ae&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/196348961.jpg?k=6ccd799da640bb223d056458f178c4e4147f3b645ffa1b45308b3266a5eb8f9a&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/180813828.jpg?k=e4f42a33d1174cf415b294df583948d3b5586ec5a9c81febdbe2a02b37b948e2&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/177364313.jpg?k=39ece08a8628eb2f56cb1cebc8e308ea59503401028a487f68090f2359ed9552&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/174779682.jpg?k=397473f231ead7cd6a92d09c709f2698362e6fdc3907e90f4b427ec25d8cbbea&o="
+                            ],
+                            "roomDescription":"This villa has a balcony, dining area and air conditioning.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Villa with Sea View",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/196342786.jpg?k=041a30633dd3143840c926a18f5846b187a4cea39c4015afeb56fc49c4a809a3&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/196343056.jpg?k=d05e73c1f36591aa9d17072a609f75a706bbf2cf0f5f780eef8f976e7e59e63e&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/196343085.jpg?k=72ce725b8e53cc2539b8e6b2a3dc28f29fbba07e01261b5a9480a35df46cde7a&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/247697847.jpg?k=2537d6c964177bd874c0882774a1cd1869b79a1f3563917195ab7c396c0c8dda&o="
+                            ],
+                            "roomDescription":"Room with mountain views, a flat-screen satellite TV, a tea/coffee maker, and a bathroom with a shower or bathtub.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Bungalow with Garden View",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/196350003.jpg?k=fffb9defc5c334e9d4e368e1c26f3a180f459967ec8cdcf2ad1141ffb164c2a7&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/196348662.jpg?k=cec0dfc5ddea8f6abcc7f50059b46a4055b82a002bc8d44293808c61654ff5e8&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/196350015.jpg?k=a899e7e848a4914ff72f36b43792549c8d290196036b8aee65196dd3cff167b0&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/247704140.jpg?k=94dab528addb14f96c31a64d2bf2687fe651a5c39daa93a03b4130e8ca696699&o="
+                            ],
+                            "roomDescription":"Room with mountain views, a flat-screen satellite TV, a tea/coffee maker, and a bathroom with a shower or bathtub.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        }    
+                    ]
+                },
+                {
+                    "code":"ocean-terrace-suite-and-spa-luxury",
+                    "name":"Ocean Terrace Suite And Spa Luxury",
+                    "images":["https://cf.bstatic.com/xdata/images/hotel/max1024x768/278184945.jpg?k=b06f4a1ba7dcc27b35a590f49cff61e14d0e9ca2c0f440edace18950e54b9e69&o=&hp=1", "https://cf.bstatic.com/xdata/images/hotel/max1024x768/278184948.jpg?k=3666d6094783bdf744b5a9ba964e687fa8f97ffe362ad4558fb86321c09b06ea&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/278184943.jpg?k=fc09d202c97765717778c6efd6b820136717afacf7fd4c4600402d21761c4a35&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/278184947.jpg?k=7e547c77e5fc889d1308e93b4bee90a691fbe313c33cb663290e7645bea7a71a&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/276429699.jpg?k=de1360fb20873dc7665aa1f2bf6f428deda083cd559eac8a54c505aabfa8a4cd&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/162425372.jpg?k=f1159954ef2eefce707f7e4b15e7ed110d5af1e496bee8fd9b96b7f87aeb9952&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/278184391.jpg?k=d36464deb079eb145097cea18a25abb8b9a74d5e6a66ccbd9e41ed0057f34676&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276429766.jpg?k=7930157eff974d04a53d18dc06ec53d1f470bddefe17a82c988b23cbe3743fcd&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/186421366.jpg?k=c75a266b987f256bc1e2dd506b30ab5e51fefbc0e6fccf92dc7da8146d7cfa93&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/276429709.jpg?k=db3954fe722e6f81175a2d322a19dff9387ec0d3e07027bfb83ef68d7b4080d3&o=&hp=1"],
+                    "hotelDescription": ["Located in Nusa Penida, 1.5 km from Batununggul Rastafara Beach, Ocean Terrace Suite And Spa Luxury provides accommodation with a restaurant, free private parking, an outdoor swimming pool and a bar. Each accommodation at the 4-star resort has pool views, and guests can enjoy access to a garden and to a terrace.","The accommodation offers a 24-hour front desk, room service and currency exchange for guests.","Guest rooms at the resort come with air conditioning, a seating area, a flat-screen TV with satellite channels, a safety deposit box and a private bathroom with a hot tub, bathrobes and slippers. At Ocean Terrace Suite And Spa Luxury each room has bed linen and towels.","The area is popular for cycling, and bike hire and car hire are available at Ocean Terrace Suite And Spa Luxury.", "Broken Beach is 26 km from the resort, while Giri Putri Cave is 3.4 km away. The nearest airport is Ngurah Rai International, 46 km from Ocean Terrace Suite And Spa Luxury, and the property offers a paid airport shuttle service.", "The area is popular for cycling, and bike hire and car hire are available at Ocean Terrace Suite And Spa Luxury."],
+                    "facilities": ["swimmingPool", "parking","spa","family","pets","wifi","coffe","bar"],
+                    "location":"Jalan Raya Batumulapan, 80771 Nusa Penida, Indonesia – 5.5 km from city centre –",
+                    "stars":5,
+                    "reviews":[
+                        {
+                            "name":"Stefan",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/de/3960b0022ef5095cf89870f553cb2baf2e98103b.png",
+                            "country":"Germany",
+                            "comment":"The staff is exceptionally friendly and helpful. The hotel's location is a dream, fantastic view, Bellagio literally arounf the corner. Great breakfast that doesn't bore even after 2 weeks."
+                        },
+                        {
+                            "name":"Kirankas",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/nl/314ce6500532e846e25d6e3a7c824ef17c968446.png",
+                            "country":"Netherlands",
+                            "comment":"Villa Serbelloni was an excellent hotel - the best in fact in Bellagio. We arrived by car, driving through the narrow streets in Bellagio was quite the experience. " 
+                        },
+                        {
+                            "name":"Agathe",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/nl/314ce6500532e846e25d6e3a7c824ef17c968446.png",
+                            "country":"Netherlands",
+                            "comment":"The location, the staff, the restaurant, the facilities! I cannot think of a single negative about this place. " 
+                        }
+                    ],
+                    "roomTypes":[
+                        {
+                            "name":"Deluxe Suite with Sea View",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/174702164.jpg?k=377e5124cb31ec171e936dc645db7a85cf389ced07ef4692382adef7e426e329&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/162425409.jpg?k=5a3134ead4921dad15b1a227abff5a8c73c9f16152dfa3af6620cbc4be01f930&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/162425397.jpg?k=ba8a09d0451561800c4e1a5d49331c2f925d8c2cf70c55fd731849c18b4c0d63&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/175575101.jpg?k=fdde1e91d4f12f8e3a6d3dd3e5fd4727a0834d89573d6c39e06499211567c565&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/162425380.jpg?k=1102d2a64c70737b04b98b2eb7d412b58c46a3dc4b13fcd21d55beac9d827ae8&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/175575219.jpg?k=0b41b7ea88a3a06eb325bbb745019d04be924bcc1f1fd51ada6a8f2febf6f6ee&o="
+                            ],
+                            "roomDescription":"This suite has a balcony, electric kettle and air conditioning.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Family Suite",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/162764270.jpg?k=f1355698a3ee2d9bf67d35219d2832ac588f1e72db145b6ea12573f2875e51c7&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/163056792.jpg?k=3ac03a6e711e86ab25f02ec0b235f7f213ea827651bb187d007668de3d567341&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/184206307.jpg?k=2bd7ac9cc0638f20b2c68a72b06f96012f596b1803815be30dff21e7778909b0&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/184206305.jpg?k=9d1bbfd712faead272172f412ccf1213a9c11bbbfead2a3069b917d2c6917ad1&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/184195284.jpg?k=ccaf0cd77aa9ef87f860dee71eefe73b8b4127e27636bd114229512b22b7d9ab&o="
+                            ],
+                            "roomDescription":"This suite features a balcony, air conditioning and electric kettle.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Grand Family Suite",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/180324758.jpg?k=67235b59f8ae1dbcc5c74ea6e4413e827ada9986755dd0556b4f677776055b97&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/180324747.jpg?k=ec57dc567227fffedf04ad6adc64d03fc34d427b5e627cece5d16a8afe21a83e&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/181307342.jpg?k=adc443ab303933bff20ac359211ae8b1b5b8df4ef205b4912c19a0fdac8178bc&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/182013229.jpg?k=368906c23bf519f8c281a13ba08687363b14f9f762615402319a16706c00e177&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/183959450.jpg?k=94989c661b35eb26db78ffe7b7b825c0df5b366ddd621b621315d1279055eb70&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/183959459.jpg?k=c8dfc58bbd7d4442f9d076c0d92f86260e4e7cb7cb6ee7eee4fb29502a79cedb&o="
+                            ],
+                            "roomDescription":"This suite features a balcony, air conditioning and electric kettle.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        }
+                    ]
+                }
+
+            ]
+        },
+        {
+            "backgroundBannerImage":"https://wallpapercave.com/wp/wp2163731.jpg",
+            "place":"mykonos",
+            "country":"greece",
+            "description":"Located in the center of the Cyclades island group, Mykonos is one of the most famous Greek islands for its cosmopolitan atmosphere and vivid nightlife! No wonder why it's widely known as the “Ibiza of Greece”! Mykonos holiday is an experience of a lifetime and there's a whole heap of amazing things to do in Mykonos.",
+            "category":"highlighted",
+            "stays":[
+                {
+                    "code":"palladium-hotel",
+                    "name":"Palladium Hotel",
+                    "images":["https://cf.bstatic.com/xdata/images/hotel/max1024x768/262564519.jpg?k=c0e79e082737d2a755e267120f2bec7548af2bc97d8b5cc5138c7b48258d020a&o=&hp=1", "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262654511.jpg?k=5cbe8c67d534f64da2b446d5bfb6c84d5ed99d0ae612abea93b66e3fa5a64fd2&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/262563279.jpg?k=4a04b55113c0ce900c3ad840ce92544aa0ccba04620eefe5f0b3d0f2b43d9dfd&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/262559230.jpg?k=7301d2ba239a2d03803bf06a94121563f55520e150e9faebefc3f259f356ad69&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/262565789.jpg?k=21dfc2b6eeb2c76ed9a43232f19da1251b972d4e06b9b6e1521abb62cd8dd956&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/262657730.jpg?k=7b6fea2184dfded86f16a5ed7e80a25208bc090c10fec0928759fb11bc2f7b7e&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262657724.jpg?k=f6d0ae88ed8f2e9166963079baf87d201971aa00fdee542c6c5c112425bdba6a&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262655030.jpg?k=ab46d7b4fb558383e4becd5046308edb3345d8f330e4a0e935e36a78ae3600e7&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262564518.jpg?k=e2d83ac8b592d4cff63e6803b174c30399373c0ffe0c0dd3134cc0a01659b505&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/262564508.jpg?k=a351a70f4960f6ebe3c5906efba3c6eefb9417d251f9a1cbe125990414921db8&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262563760.jpg?k=d58360cb101fa6228f4e68f52dfc8652ca2f52d26c3de2f7a301bbb017c73fe5&o=&hp=1"],
+                    "hotelDescription": ["Palladium Hotel is located at Platys Gyalos, a 5-minute walk from Psarou and Platys Gyalos Beaches, as well as just a breath away from the famous Nammos. It is a 5-star hotel featuring free WiFi in all areas, an outdoor and an indoor heated swimming pool, a lavish spa and fashion boutique. A state-of-the art fitness centre and sauna are also available.","Each of the elegant suites and rooms is air-conditioned and includes a seating area, a flat-screen TV with satellite channels and furnished private balconies. All units in the hotel are equipped with a coffee machine, hair dryer and ironing facilities. Korres toiletries can be found at the private bathroom. Some units also feature a private pool or hot tub.","Guests are greeted with a welcome drink and wake up to a rich American breakfast buffet served daily. Guests in rooms with a private pool can also enjoy a floating breakfast in the privacy of their own pool.","Services that can be enjoyed at the spa center include massages, hair, beauty and facial treatments, hammam and hot tub.", "La Veranda restaurant serves innovative Mediterranean cuisine created from fresh Greek products. Palladium’s lobby bar, overlooking the Aegean sea and the starlit swimming pool offers Signature cocktails. The poolside bar offers lounge-style sunbeds and refreshing drinks. Other options include a snack bar. In-room dining is also available upon request."],
+                    "facilities": ["swimmingPool", "parking","spa","family","pets","wifi","coffe","bar"],
+                    "location":"Nammos Beach , Platis Yialos Mykonos, 84600, Greece – 0.7 km from city centre –",
+                    "stars":5,
+                    "reviews":[
+                        {
+                            "name":"Qing",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/at/add9b5fd810bf7552bd0d7dc984fb69607db7629.png",
+                            "country":"Austria",
+                            "comment":"Wonderful stay in this apartment and Hallstatt! Perfect host, perfect location, perfect time! Thanks!"
+                        },
+                        {
+                            "name":"Anita",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/at/add9b5fd810bf7552bd0d7dc984fb69607db7629.png",
+                            "country":"Austria",
+                            "comment":"Martina - the contact person incredibly hard-working. . everything worked out to the finest!!!!! Thank you so much!!! I would always gladly recommend it!" 
+                        },
+                        {
+                            "name":"Judith",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/ie/2473527640024c7969dc6eaeae2ec8be008d96e7.png",
+                            "country":"Ireland",
+                            "comment":"The location is very central and the view from the terraced garden beautiful. Inside the house could not be more cozy. We found it very difficult to leave again :)" 
+                        }
+                    ],
+                    "roomTypes":[
+                        {
+                            "name":"Elite Sea View Suite (2 Adults)",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262565805.jpg?k=50773ac16c9b72b12ce570403640a86ac7f46bc460512fd256cfe1d0d84b1f81&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262565788.jpg?k=ac3f14af33224e07904f864ffcda23cef68828dbb6b19288e32e27ce77d5eda0&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262565796.jpg?k=97b8dadf6c1c476705b5fa2d6f3837ba94954125a623ced37ae8359058bd9261&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262565780.jpg?k=cdbc9b7f0e522ba57f49eee19ed69f13f617d6219e6f5cf06f9e5f6bcbeae580&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262565789.jpg?k=5dc2c7a58d418f91084d172f1aef54fece4d3375028b220b3b82e7fe91208049&o="
+                                
+                            ],
+                            "roomDescription":"Offering views of the Aegean Sea, this air-conditioned room is decorated in bohemian style and features:-a satellite LCD TV and DVD player -seating area -ironing facilities -free WiFi -minibar -safety deposit box -tea and coffee making facilities.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Executive Suite",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273235746.jpg?k=5cee727f1a88e7899b61dd64fd6066d24bf2a8e055c05a0b41bba2fcb4d418ab&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265201228.jpg?k=834d4f35ca4a3524faf546d67fd9a545ffe07b2eb9517c1e7b9fb72f6ac5f5f4&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273235717.jpg?k=eb5f3395ef0614c89541d162b5ffc7db412f4fae2d88e522434515d6a997cbcb&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273235731.jpg?k=76db03dcb5760432eb1ec19d00f3ae7ad14bccdb76577281a6d090e852b390e8&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273235755.jpg?k=31edfbe40a519a542bb9f937ac987bfeb4815dfac70a026ff872e130070f0d22&o="
+                            ],
+                            "roomDescription":"This elegantly decorated and open-plan junior suite features a separate seating area with a large sofa and a writing desk. It has:-a satellite LCD TV and DVD player -ironing facilities -free WiFi -minibar -safety deposit box -tea and coffee making facilities.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Honeymoon Sea View Suite with Private Hot Tub",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262562070.jpg?k=4dbfbd6b8622c8fea5c53fca433072bccc6b7f24fbe2913ee05ad07d0ac6c64a&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262562076.jpg?k=64a613583dcfd7fa38faa104c790a84cd6778313d408e8aadcf614eb5ad89b8a&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262654511.jpg?k=02e462b2f47b3e51657c619360e82e880c48866245a64cf5f1bb096a1fe482b3&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262999807.jpg?k=aaf1f6eb28ccc67342873c1cc902c5e5ef4370efa48a9ae16750fe3aa0ff479e&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273239658.jpg?k=78750a58a315886f19f2c47f01721f0c9111d82fd292ad2ebcdc5a25d078b561&o="
+                            ],
+                            "roomDescription":"Upper floor suite offering panoramic sea views. Its spacious balcony is fitted with an outdoor hot tub.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        }
+                        
+                    ]
+                },
+                {
+                    "code":"petinos-hotel",
+                    "name":"Petinos Hotel",
+                    "images":["https://cf.bstatic.com/xdata/images/hotel/max1024x768/257936308.jpg?k=31a18efeb6378195b4ac4ba24869796a1d2fbf275dec6b1fe7907991601d85a9&o=&hp=1", "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257936326.jpg?k=375dfc42ab7b70a7ce04bdc892ba15a1b44e453453c2c122add93940cb6c2687&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/257936259.jpg?k=0b37074b822a0d792dd10abe759bf11437a59ee40e3ba199907165e28b082a82&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/257937447.jpg?k=0c05a6f0aa564e634f4e54b8b4b199688f6f54841040b46589940c2e1e1ed24a&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/262896892.jpg?k=b2058e5c9d9f4917eba204b61ff0842d96ff8eddb80ebd0d7eb3298a8d8409bf&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/262896722.jpg?k=533e1925e50c6d780e00f9eb851c36c9270956e00db701d7eba10919c33fcf53&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262896890.jpg?k=ee4a78ebf04177ca185a24a3d1eeafc9350bf568e10cf31d89f2f239abbe9415&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257935578.jpg?k=9d5b7cd63aa751e1a70d4052a756f32909cdf63d2f99187b23f1bb18ab41a89d&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262299687.jpg?k=2165760e18fccd45b90898a3d4d66c02a9ae96304e5e79d0366e81aae9c3fb5e&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304230172.jpg?k=9bf2c7819f556880426ff89b0bb482d0d0275f0139da1bbc913e66dbdcd48647&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262896712.jpg?k=8bf116169a19181fa3cb670e5a39175cd9bb73de201c87f5cf10dbe1d1b5f880&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257935679.jpg?k=9e1cd1f221ccb8b5c3df0749305313ab8e03ca46d70a4a95ce475abbcd10b8fd&o=&hp=1"],
+                    "hotelDescription": ["Hotel Petinos features accommodation just metres from Platis Gialos Beach. Mykonos Town is just a short bus ride away.","Offering views of the pool, the comfortable guest rooms at Hotel Petinos are air-conditioned and elegantly appointed. Each offers a mini-fridge, TV with satellite channels and hairdryer. Some room types are located in the annex building, at a distance of 1 km.","The bus connecting with Mykonos Town stops right outside the hotel. Petinos Hotel offers guests free transfer from/to the the port (3 km away) and the airport (5 km away).", "Frequent boat rides from Platis Yialos take guests to Mykonos’ famous beaches Paradise, Super Paradise, Agrari and Elia.", "Greek and Mediterranean dishes are served at the Blue Myth restaurant, situated right on the beach. Special nights with dancing and singing are organised twice weekly."],
+                    "facilities": ["swimmingPool", "parking","spa","family","pets","wifi","coffe","bar"],
+                    "location":"Platis Yialos Beach, Platis Yialos Mykonos, 84600, Greece – 0.3 km from city centre –",
+                    "stars":5,
+                    "reviews":[
+                        {
+                            "name":"Julius",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/is/26b75afaf0e5fb3281145092cf041079c267bbc6.png",
+                            "country":"Iceland",
+                            "comment":"Excellent breakfast with an omelette station and good quality coffee. The staff was very helpful and attentive. Nice pool and garden. Good sized rooms and the beds were not too soft."
+                        },
+                        {
+                            "name":"Apolline",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/nl/314ce6500532e846e25d6e3a7c824ef17c968446.png",
+                            "country":"Netherlands",
+                            "comment":"Pool, close to the lake, big rooms and clean. Staff were very friendly. All the staff were amazing. Thanks so much. The rooftop pool is incredible and the hotel is extremely clean." 
+                        },
+                        {
+                            "name":"Edwin",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/nl/314ce6500532e846e25d6e3a7c824ef17c968446.png",
+                            "country":"Netherlands",
+                            "comment":"The location is convenient to get around the city and the about. Staffs were friendly and the pool is nice if there aren’t too many people." 
+                        }
+                    ],
+                    "roomTypes":[
+                        {
+                            "name":"Villa",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31168611.jpg?k=4d5ce4cdb1821648f5a2a1bf00cc4bf2981b1007519b7d2baeaa33ab1f6ac190&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257937440.jpg?k=8b12e0cc59253ad6836ee35e5d45b1603d8bf8fc37e92d4dcbe4bdbe8eb45a85&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257937447.jpg?k=0e02f7c27c2533942bfd196667dd1590a85d4328ee195d293573d4f8c913ac55&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304230102.jpg?k=45efb74d89b3f00230d6859045573cfc21438063399271e81e5206df4700f289&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304230172.jpg?k=0a8c38c70281c8076dc5fe501e6719fec1cb5603f3211a4da722ed946de4a8f9&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304230102.jpg?k=45efb74d89b3f00230d6859045573cfc21438063399271e81e5206df4700f289&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31168547.jpg?k=7522fd5353ebe3e37919f86dae801e3b4e342ecd1103e07b11133a33072e8283&o="
+                            ],
+                            "roomDescription":"Featuring elegant furnishing, this Cycladic-style room offers pool or street views from its balcony.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Honeymoon Suite with Sea View",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262305190.jpg?k=07e65cd7c237f428f023f7983914d8a5237bab977655f27b0e0e51c0d8089101&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262305127.jpg?k=66c49f2a5d7983135081ceb7fea4f8b765a07e31cf9ef31880f6d56783c31ab9&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262301288.jpg?k=80a16480cf61511dc75d25d9ab32e52286bdd488d67c0cd9c967b9c104e69dda&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262301947.jpg?k=7c8d89754f538e81a78ec83689b7148fa85a4798e9d9d6dc45ecbc86ae2d8f16&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262305226.jpg?k=2cb03e899b9fc3d11b42e08b1463ee9bd9ad8f08e969d81bfb4f72a7a8b70933&o="
+                            ],
+                            "roomDescription":"This stylish and bright suite features a Cycladic style and offers:-sea views -a bathroom with a bathtub and free toiletries -a dining table -free WiFi.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Executive Double Room with Sea View",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262299687.jpg?k=bd7e65e778200630e8d0ec2a0b3f1850681bba16c0e2c79367ce3acba875cfa3&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262299757.jpg?k=f2f4e8d86a78e8296bbe0130ab41b751942a4083ad288e7554a3058c25548d2a&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262299725.jpg?k=2316d58c0573f9927297dbb507c459326e76168abde3ddb778fe6efff19858bb&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262634700.jpg?k=efee299e5aa67135790812f3ac05bb035bb6d85536543c32d96c0da4d5064424&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262634698.jpg?k=cf19ff43b91f5d4ba57846d688dde451b99a0875e3525aaccd733a28d82591df&o="
+                            ],
+                            "roomDescription":"This double room features a balcony, electric kettle and bathrobe.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        }    
+                    ]
+                },
+                {
+                    "code":"poseidon-hotel-suites",
+                    "name":"Poseidon Hotel Suites",
+                    "images":["https://cf.bstatic.com/xdata/images/hotel/max1024x768/146201380.jpg?k=0c7e599d5c708353fbfb2920934dcc7300ffdddc6a704652268d99672eaa8880&o=&hp=1", "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145057986.jpg?k=5d9270bdd774f29ca291bdfc85d5569f8cd6377b6fd541f900aea8a99f1a41a2&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/145058138.jpg?k=36ba4e8036726ef46fc5b98363db28fad66f52f5a00974b4010d71418ab7fe79&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/146201406.jpg?k=375731226152da163845d20aec6871c1aa85771f321aa5f145081ec51fb8345c&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/146201383.jpg?k=47201c2d1f52e72120d3a59ead7bd4a6f5826c35f6cb4d246d50700ec60f55b1&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/126624823.jpg?k=1644dfc1d7f0fe22e617beab073d82707d34da701f9fa53bead5937dc07b737d&o=&hp=1",
+                    "https://cf.bstatic.com/xdata/images/xphoto/max1024/116082720.webp?k=2da3ec05cd74a233d04d4f027bc856ff3b148628c4f6c7ebdb4aca5fd7bdd02c&o=",
+                    "https://cf.bstatic.com/xdata/images/landmark/max1024/223591.webp?k=75aba3879bce3a0014508575869d37c3a4c19f406019fc7db64609e12ec5e458&o=",
+                    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/126632776.jpg?k=cf038e639366693f8ee4e54e135964adbfe7908502e7db9724e250348211f61c&o=&hp=1","https://cf.bstatic.com/xdata/images/hotel/max1024x768/145057946.jpg?k=cea54ea8166f8b0446f60f71e98421cb6f5e27184705bc332d012edee6197536&o=&hp=1"],
+                    "hotelDescription": ["Located in Nusa Penida, 1.5 km from Batununggul Rastafara Beach, Ocean Terrace Suite And Spa Luxury provides accommodation with a restaurant, free private parking, an outdoor swimming pool and a bar. Each accommodation at the 4-star resort has pool views, and guests can enjoy access to a garden and to a terrace.","The accommodation offers a 24-hour front desk, room service and currency exchange for guests.","Guest rooms at the resort come with air conditioning, a seating area, a flat-screen TV with satellite channels, a safety deposit box and a private bathroom with a hot tub, bathrobes and slippers. At Ocean Terrace Suite And Spa Luxury each room has bed linen and towels.","The area is popular for cycling, and bike hire and car hire are available at Ocean Terrace Suite And Spa Luxury.", "Broken Beach is 26 km from the resort, while Giri Putri Cave is 3.4 km away. The nearest airport is Ngurah Rai International, 46 km from Ocean Terrace Suite And Spa Luxury, and the property offers a paid airport shuttle service.", "The area is popular for cycling, and bike hire and car hire are available at Ocean Terrace Suite And Spa Luxury."],
+                    "facilities": ["swimmingPool", "parking","spa","family","pets","wifi","coffe","bar"],
+                    "location":"Jalan Raya Batumulapan, 80771 Nusa Penida, Indonesia – 5.5 km from city centre –",
+                    "stars":5,
+                    "reviews":[
+                        {
+                            "name":"Stefan",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/de/3960b0022ef5095cf89870f553cb2baf2e98103b.png",
+                            "country":"Germany",
+                            "comment":"The staff is exceptionally friendly and helpful. The hotel's location is a dream, fantastic view, Bellagio literally arounf the corner. Great breakfast that doesn't bore even after 2 weeks."
+                        },
+                        {
+                            "name":"Kirankas",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/nl/314ce6500532e846e25d6e3a7c824ef17c968446.png",
+                            "country":"Netherlands",
+                            "comment":"Villa Serbelloni was an excellent hotel - the best in fact in Bellagio. We arrived by car, driving through the narrow streets in Bellagio was quite the experience. " 
+                        },
+                        {
+                            "name":"Agathe",
+                            "flag":"https://cf.bstatic.com/static/img/flags/16/nl/314ce6500532e846e25d6e3a7c824ef17c968446.png",
+                            "country":"Netherlands",
+                            "comment":"The location, the staff, the restaurant, the facilities! I cannot think of a single negative about this place. " 
+                        }
+                    ],
+                    "roomTypes":[
+                        {
+                            "name":"Plus Double or Twin",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/126621393.jpg?k=453bb9c73cc090ad90f2d8501af489f3c214dc3a1edc737d67425863faa17813&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/126621150.jpg?k=96492316290b852c23fdbb472dd6f1105367cba3df9742823ade8a701f906174&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/27125252.jpg?k=387a4bf10af26708fad99c961661e0f79daea5656db3039061eec690e94ac930&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/126622597.jpg?k=b13f7732eff45d40488bac3aeaece19695296e05aa4d0013871e9422c86ff56c&o="
+                            ],
+                            "roomDescription":"Fitted with a spa bath, this air-conditioned and traditionally decorated room opens to a spacious balcony overlooking the sea, the pool and the windmills. It has a flat-screen, satellite TV and a mini fridge.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Suite",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145057531.jpg?k=94ce6c03c2d020d6c4967823a7f5184c885f3f649268efbd52fb9694f191dd2f&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145058001.jpg?k=30b51f8c1f38e3a9923d39459271658e3419a67c7b0c50885c1f1813baad561d&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145057961.jpg?k=a27fce34c37ac6876b8874c79f335c4d1da55a679cd0cad45b643541782645e0&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145057986.jpg?k=8d4cdecce2334bc682e63325c546966b01cbd86c9889922f5c7d910ae1d4ac37&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145057946.jpg?k=6344d7c2ca9471af906ca735d324c20dae447852e084a65061ea6b30e8296c2b&o="
+                            ],
+                            "roomDescription":"Just a few metres from the sea, this air-conditioned room opens to a private balcony overlooking the garden and the windmills. Traditionally furnished, it comes with a flat-screen, satellite TV.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        },
+                        {
+                            "name":"Superior Double or Twin Room with Hot Tub and Sea View",
+                            "images":[
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145058138.jpg?k=a55af5fdd5d3016867119e122f6da79b972798d5d24af7c7b437813594886600&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145058129.jpg?k=8ba95a2aef42ef0684f7af68f7ac52f2fc85246e7b6eb2ad2b0991c210917f31&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145058111.jpg?k=1118fdab5fb4f95708c9f56f2da70c10dbf12a314e0d6a294bb7e1305c15d6dc&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145058077.jpg?k=fb68e426e3a68b7919a719bbfe39495fbe26a1727f7cf3415b4d6ddf78e498fa&o=",
+                                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145058062.jpg?k=1637b1539415f78a718d5e768bb3f5b9701170d79ccd69a7c19c203e60220289&o="
+                            ],
+                            "roomDescription":"Offering an outdoor hot tub and Aegean Sea views, this air-conditioned room features:-flat-screen, satellite TV -mini fridge -safety deposit box.",
+                            "bathRoomFacilities":["Free toiletries","Bidet","Toilet","Bath or shower","Towels","Hairdryer","Toilet paper"],
+                            "roomFacilities":["Alarm clock","Hand sanitiser","Tea/Coffee maker","Air conditioning","Electric kettle","TV","Telephone","Flat-screen TV","Cable channels","Wake up service/Alarm clock"]
+                        }
+                    ]
+                }
+
+            ]
+        }
+    
